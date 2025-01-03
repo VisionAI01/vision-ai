@@ -56,8 +56,7 @@
 
 ### **Steps**
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/VisionIA01/vision-ai.git
+   git clone https://github.com/VisionAI01/vision-ai.git
 
 2.Navigate to the project directory:
 
